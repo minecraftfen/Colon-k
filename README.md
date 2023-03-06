@@ -1,2 +1,1 @@
-# cfwsdbc
- cloudflare worker secret database console
+# Colon-K (:K) Console
